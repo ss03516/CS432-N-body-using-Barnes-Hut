@@ -1,5 +1,6 @@
 # CS432-N-body-using-Barnes-Hut
 
+#How to Run
 
 1. Open Nvidia C/C++ Lab from nvidia courses
 2. Upload the .ipynb file and all the other files in the same format* as they are right now.
